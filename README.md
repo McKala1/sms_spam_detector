@@ -54,3 +54,9 @@ I've tested my SMS prediction Gradio app with these text messages:
 4. "Thanks for registering. Text 4343 to receive free updates on Medicare."
 
 I've had so much fun creating this SMS Spam Detector, and I hope you enjoy it as much as I do! 🌈
+
+
+
+
+**References**
+Tiago, A., Hidalgo, J. 2012. SMS Spam Collection. UCI Machine Learning Repository. Available https://archive.ics.uci.edu/dataset/228/sms+spam+collectionLinks to an external site. [2023, October 25]. (CC-BY 4.0Links to an external site.).
